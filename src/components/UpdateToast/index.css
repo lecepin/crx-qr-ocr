@@ -1,0 +1,15 @@
+.update-toast {
+  position: fixed;
+  z-index: 9;
+}
+
+.update-toast .am-notice-bar {
+  position: fixed;
+  z-index: 2;
+  left: 0;
+  right: 0;
+}
+
+.update-toast .am-notice-bar-operation {
+  padding-right: 15px;
+}
